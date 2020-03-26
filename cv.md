@@ -15,6 +15,10 @@ Front End|Backend|Tools
 HTML 5 | Java | Git
 CSS 3 | Python | VSC
 JavaScript | SQL | IntelliJ
-TypeScript | | npm
-Angular 8 |
+TypeScript | Spring | npm
+Angular 8 | Hibernate | Design Patterns
 
+### Experience
+* Nov 2019 - present - Epam System - Onboarding Application (Software Developer)
+* Mar 2019 - Nov 2019 Epam Systems - Google project (Junior Software Developer)
+* Nov 2018 - Mar 2019 Epam Systems - Java Academy
