@@ -22,3 +22,9 @@ Angular 8 | Hibernate | Design Patterns
 * Nov 2019 - present - Epam System - Onboarding Application (Software Developer)
 * Mar 2019 - Nov 2019 Epam Systems - Google project (Junior Software Developer)
 * Nov 2018 - Mar 2019 Epam Systems - Java Academy
+
+### Education
+* Jul 2017 - Sep 2018 - Codecool Programming School
+
+### English
+As a Sofware Developer I am using English on daily basis. I easily get along with my colleagues and corespond with clients by emails.
