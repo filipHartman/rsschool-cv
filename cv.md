@@ -7,4 +7,14 @@
 E-Mail: [filip.hartman23@gmail.com](mailto:filip.hartman23@gmail.com)
 
 ### Summary
-I am Software Developer working at Epam System. I started my journey as programmer by learning Backend technologies like Java and Python. But as a Junior Developer I went to the project as a Frontent developer and I felt in love with Web Technologies. I know that I have a lack of basic of HTML, CSS and JavaScript and that's why I joined RS School.
+I am a programmer working at Epam System. I started my journey as a programmer by learning back-up technologies such as Java and Python. But as a Junior Developer, I went to the project as a Frontent programmer and fell in love with Web technologies. I know that I lack the basics of HTML, CSS and JavaScript, and that's why I joined RS School. I know this will help develop my career as a Front-End or Full-Stack programmer.
+
+### Skills
+Front End|Backend|Tools
+---------|-------|-----
+HTML 5 | Java | Git
+CSS 3 | Python | VSC
+JavaScript | SQL | IntelliJ
+TypeScript | | npm
+Angular 8 |
+
