@@ -27,4 +27,4 @@ Angular 8 | Hibernate | Design Patterns
 * Jul 2017 - Sep 2018 - Codecool Programming School
 
 ### English
-As a Sofware Developer I am using English on daily basis. I easily get along with my colleagues and corespond with clients by emails.
+As a Sofware Developer I am using English on daily basis. I easily get along with my co-workers and corespond with clients by emails.
